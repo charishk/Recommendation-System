@@ -4,7 +4,7 @@
 2. Recommendation system
 3. Validation
 
-## Anime Recommendation System 1 🇯🇵  
+## (Anime Recommendation System 1 🇯🇵 ) 
 1. Exploratory data analysis
 2. Principal component analysis
 3. Clustering
